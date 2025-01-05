@@ -64,7 +64,7 @@ Freenove is an open-source electronics platform.
 Freenove is committed to helping customer quickly realize the creative idea and product prototypes, making it easy to get started for enthusiasts of programing and electronics and launching innovative open source products.
 
 Our services include:
-
+git clone https://github.com/Freenove/Freenove_Projects_Kit_for_Raspberry_Pi.git
 * Robot kits
 * Learning kits for Arduino, Raspberry Pi and micro:bit
 * Electronic components and modules, tools
